@@ -23,7 +23,7 @@ end
 
 def now_serving(array)
   if condition
-    
+
   else
     puts "There is nobody waiting to be served!"
   end
