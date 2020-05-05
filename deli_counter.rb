@@ -24,7 +24,7 @@ end
 def now_serving(array)
   if array.length > 0
     array.each do |name|
-      puts "Currently serving #{name}"
+      puts "Currently serving #{name}."
     end
 
   else
